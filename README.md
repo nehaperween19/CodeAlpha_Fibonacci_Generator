@@ -1,1 +1,1 @@
-This repository contains task-1 of CodeAlpha Internship performed by Neha Perween.
+This repository contains task of CodeAlpha Internship performed by Neha Perween.
